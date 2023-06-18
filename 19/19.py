@@ -1,1 +1,2 @@
-file1 = open('19.txt', 'r')\ninput = file1.read()
+file1 = open('19.txt', 'r')
+input = file1.read()
